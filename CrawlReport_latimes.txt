@@ -1,0 +1,41 @@
+Name: Mahima Gupta
+News site crawled: https://www.latimes.com/
+
+Fetch Statistics
+=================
+# fetches attempted: 19909
+# fetches succeeded: 19374
+# fetches failed or aborted: 535
+
+Outgoing URLs:
+=====================
+Total URLs extracted: 2275582
+# unique URLs extracted: 70624
+# unique URLs within News Site: 45182
+# unique URLs outside News Site: 25442
+
+Status Codes:
+=====================
+200 OK: 19374
+301 Moved Permanently: 354
+302 Found: 10
+404 Not Found:171
+
+File Sizes:
+=====================
+< 1KB: 3
+1KB ~ <10KB: 30
+10KB ~ <100KB: 2454
+100KB ~ <1MB: 16874
+>= 1MB: 13
+
+Content Types:
+=====================
+text/html: 16066
+image/gif: 11
+image/jpeg: 3141
+image/png:  156
+application/pdf: 0
+
+
+
